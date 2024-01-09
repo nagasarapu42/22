@@ -11,7 +11,7 @@ public static void main(String args[]) {
             }
         }
     }
-
+//is armstrong
     public static boolean isArmstrong(int number) {
         int originalNumber = number;
         int sum = 0;
